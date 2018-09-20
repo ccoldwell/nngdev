@@ -1,4 +1,4 @@
-# cdev
+# nngdev
 A dockerized nng c development environment.
 
 ## Purpose and Usage
